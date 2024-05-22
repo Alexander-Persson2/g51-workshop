@@ -1,1 +1,2 @@
 "Hello Git2." 
+"Adding more content to file2." 
